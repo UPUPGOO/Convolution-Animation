@@ -1,6 +1,6 @@
-# vuetest
+# Convolution-Animation
 
-> A Vue.js project
+> the convolution of two functions named x(t) and h(t) dispaly by the gif
 
 ## Build Setup
 
